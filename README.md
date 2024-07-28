@@ -12,7 +12,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-[![VHJvcP.newnew.png](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(https://www.linkedin.com/in/diego-lustosa-a66454210/)
+[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.linkedin.com/in/diego-lustosa-a66454210/)
 
 <!--
 **diegolustosa/diegolustosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
