@@ -1,4 +1,4 @@
-# Olá Me chamo Diego e esse é o meu santuário 🛕, aqui encontra-rá listas de exercícios e projetos.
+# Olá Me chamo Diego e esse é o meu santuário, aqui encontra-rá listas de exercícios e projetos.
 ## Sou analítico 🕵🏽‍♂️, entender os detalhes dos procedimentos me cativa. Para além, visualizo uma carreira sendo um profissional dedicado e eficiente, conquistando por meio da constante melhoria 📈. Abaixo badges de ferramentas e linguagens que tenho como foco de trabalho.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
