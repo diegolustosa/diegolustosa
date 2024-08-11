@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cfcdcd&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cfcdcd&font-family:monaco&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+DIEGO+LUSTOSA;tenho+24+anos+;resido+em+Dois+Vizinhos,+PR;eu+estudo+Desenvolvimento+de+Sistemas+no+Senai;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cfcdcd&font-family=monaco&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+DIEGO+LUSTOSA;tenho+24+anos+;resido+em+Dois+Vizinhos,+PR;eu+estudo+Desenvolvimento+de+Sistemas+no+Senai;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 # Abaixo ferramentas de trabalho e informações importantes.
 
