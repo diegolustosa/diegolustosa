@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9b1111&font-family:monospace&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+DIEGO+LUSTOSA;TENHO+24+ANOS+;resido+em+dois+vizinhos,+PR;eu+estudo+Desenvolvimento+de+Sistemas+no+Senai;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 
-# {c:red}Abaixo badges de ferramentas e linguagens que tenho como foco de trabalho.{/c}
+{c:red}Abaixo badges de ferramentas e linguagens que tenho como foco de trabalho.{/c}
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
