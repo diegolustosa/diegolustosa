@@ -1,6 +1,6 @@
-# <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MEU+NOME+É+DIEGO+LUSTOSA;TENHO+24+ANOS+DE+ IDADE;RESIDO+EM+DOIS+VIZINHOS,+PR;EU+ESTUDO+DESENVOLVIMENTO+DE+SISTEMAS+NO+SENAI;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MEU+NOME+É+DIEGO+LUSTOSA;TENHO+24+ANOS+DE+ IDADE;RESIDO+EM+DOIS+VIZINHOS,+PR;EU+ESTUDO+DESENVOLVIMENTO+DE+SISTEMAS+NO+SENAI;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
 
-## Sou analítico 🕵🏽‍♂️, entender os detalhes dos procedimentos me cativa. Para além, visualizo uma carreira sendo um profissional dedicado e eficiente, conquistando por meio da constante melhoria 📈. Abaixo badges de ferramentas e linguagens que tenho como foco de trabalho.
+# Sou analítico 🕵🏽‍♂️, entender os detalhes dos procedimentos me cativa. Para além, visualizo uma carreira sendo um profissional dedicado e eficiente, conquistando por meio da constante melhoria 📈. Abaixo badges de ferramentas e linguagens que tenho como foco de trabalho.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
